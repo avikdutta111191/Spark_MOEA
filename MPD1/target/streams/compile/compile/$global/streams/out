@@ -1,0 +1,64 @@
+[0m[[0m[31merror[0m] [0m[0m/home/nazi/MPD1/src/main/scala/MPD1/Data.scala:35:28: Float.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    this.reliability =Float(1.4E-44);[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/nazi/MPD1/src/main/scala/MPD1/Data.scala:36:29: Float.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    this.availability =Float(1.4E-44);[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/nazi/MPD1/src/main/scala/MPD1/Data.scala:37:24: Float.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    this.security=Float(1.4E-44);[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/nazi/MPD1/src/main/scala/MPD1/Data.scala:46:28: Float.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    this.reliability =Float(1.4E-44);[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/nazi/MPD1/src/main/scala/MPD1/Data.scala:47:29: Float.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    this.availability =Float(1.4E-44);[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/nazi/MPD1/src/main/scala/MPD1/Data.scala:48:24: Float.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    this.security=Float(1.4E-44);[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/nazi/MPD1/src/main/scala/MPD1/Data.scala:57:28: Float.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    this.reliability =Float(1.4E-44);[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/nazi/MPD1/src/main/scala/MPD1/Data.scala:58:29: Float.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    this.availability =Float(1.4E-44);[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/nazi/MPD1/src/main/scala/MPD1/Data.scala:59:24: Float.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    this.security=Float(1.4E-44);[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/nazi/MPD1/src/main/scala/MPD1/Data.scala:69:29: Float.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    this.availability =Float(1.4E-44);[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/nazi/MPD1/src/main/scala/MPD1/Data.scala:70:24: Float.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    this.security=Float(1.4E-44);[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/nazi/MPD1/src/main/scala/MPD1/Data.scala:80:24: Float.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    this.security=Float(1.4E-44);[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/nazi/MPD1/src/main/scala/MPD1/Functions.scala:18:28: Float.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m      wsTemp.security=Float(1.4E-44)[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/nazi/MPD1/src/main/scala/MPD1/Functions.scala:20:31: Float.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m      wsTemp.reliability=Float(1.4E-44)[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/nazi/MPD1/src/main/scala/MPD1/Functions.scala:22:32: Float.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m      wsTemp.availability=Float(1.4E-44)[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/nazi/MPD1/src/main/scala/MPD1/Jaya.scala:69:21: Float.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    var jo1min=Float(1.4E-44)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/nazi/MPD1/src/main/scala/MPD1/Jaya.scala:123:24: Float.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    var f1=w1*(c1/Float(1.4E-44))[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/nazi/MPD1/src/main/scala/MPD1/NSGAU.scala:239:24: Float.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    var agg:Float=Float(1.4E-44)[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/nazi/MPD1/src/main/scala/MPD1/NSGAU.scala:244:28: Float.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m          agg = agg * Float(1.4E-44)[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/nazi/MPD1/src/main/scala/MPD1/NSGAU.scala:252:28: Float.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m          agg = agg * Float(1.4E-44)[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/nazi/MPD1/src/main/scala/MPD1/NSGAU.scala:260:29: Float.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m          agg = agg *  Float(1.4E-44)[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m21 errors found[0m

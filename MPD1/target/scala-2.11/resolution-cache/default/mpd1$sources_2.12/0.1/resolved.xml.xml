@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
+	<info organisation="default"
+		module="mpd1$sources_2.12"
+		revision="0.1"
+		status="integration"
+		publication="20180227153336"
+	/>
+	<configurations>
+		<conf name="default" visibility="public" description=""/>
+		<conf name="compile" visibility="public" description=""/>
+		<conf name="runtime" visibility="public" description="" extends="compile"/>
+		<conf name="test" visibility="public" description="" extends="runtime"/>
+		<conf name="provided" visibility="public" description=""/>
+		<conf name="optional" visibility="public" description=""/>
+	</configurations>
+	<publications>
+	</publications>
+</ivy-module>

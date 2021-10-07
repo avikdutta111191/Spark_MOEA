@@ -1,0 +1,4 @@
+find
+find .
+sbt package
+package
